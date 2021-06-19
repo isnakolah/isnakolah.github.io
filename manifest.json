@@ -1,0 +1,9 @@
+{
+  "short_name": "Portfolio",
+  "name": "Daniel Nakolah's Portfolio",
+  "icons": [ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
